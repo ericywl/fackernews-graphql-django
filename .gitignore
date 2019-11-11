@@ -1,0 +1,8 @@
+# VSCode
+.vscode/
+
+# Django SQLite
+db.sqlite3
+
+# Python
+__pycache__/
